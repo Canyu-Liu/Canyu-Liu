@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Computer Application Engineering and English.<br>🎲 I enjoy creating some boring projects with MAUI.</p>
+<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently learning Computer Application Engineering and English.<br>🎲 I enjoy creating some boring projects with MAUI.</p>
 
 ###
 
